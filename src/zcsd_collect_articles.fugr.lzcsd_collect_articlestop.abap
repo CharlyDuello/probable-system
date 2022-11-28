@@ -1,0 +1,3 @@
+FUNCTION-POOL ZCSD_COLLECT_ARTICLES.           "MESSAGE-ID ..
+
+* INCLUDE LZCSD_COLLECT_ARTICLESD...            " Local class definition
